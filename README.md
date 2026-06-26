@@ -1,4 +1,4 @@
-# ChurnGuard — Telecom Customer Churn Prediction
+# Telecom Churn Forecaster
 
 ![Python](https://img.shields.io/badge/Python-3.10.13-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.5.2-orange)
